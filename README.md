@@ -14,7 +14,7 @@ Organização: [Ana Santos Carvalho](#Ana-Santos-Carvalho)
 
 **[[INSCREVA-SE AQUI](https://www.uc.pt/iii/ensino/formacoes-iiiuc/)]**
 
-Nota: inscrição permitida a qualquer membro da comunidade UC.
+_Nota: inscrição permitida a qualquer membro da comunidade UC._
 
 ## Sobre
 [GitHub](https://github.com/) é uma das principais plataformas de alojamento de código em acesso aberto online. Graças ao controlo de versão de ficheiros e às ferramentas de gestão de repositório, a gestão de projectos torna-se transparente. Neste workshop são introduzidas as ferramentas e o workflow básicos no Github, que permitem a programadores e não-programadores colaborar online e em acesso aberto. Este é um workshop prático, e a partir do zero, orientado por OCH, contando ainda com participação de Carolina Travassos e Bruno Direito sobre colaboração e gestão de projectos usando GitHub.

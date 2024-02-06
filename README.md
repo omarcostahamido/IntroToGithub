@@ -1,5 +1,3 @@
-# Introdução ao Github, gestão de projeto, e trabalho colaborativo
-
 Universidade de Coimbra - Formações iiiUC: Ferramentas de Apoio à Investigação
 
 Quinta-feira 29 de Fevereiro, 2024

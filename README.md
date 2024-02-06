@@ -8,9 +8,9 @@ Quinta-feira 29 de Fevereiro, 2024
 
 Formador: [OCH](#OCH)
 
-Convidados: [Bruno Direito](#Bruno-Direito), [Carolina Travassos](#Carolina-Travassos)
+Convidados: [Bruno Direito](#Bruno), [Carolina Travassos](#Carolina)
 
-Organização: [Ana Santos Carvalho](#Ana-Santos-Carvalho)
+Organização: [Ana Santos Carvalho](#Ana)
 
 **[[INSCREVA-SE AQUI](https://www.uc.pt/iii/ensino/formacoes-iiiuc/)]**
 
@@ -39,7 +39,7 @@ _Nota: inscrição permitida a qualquer membro da comunidade UC._
 <a href="https://github.com/omarcostahamido"><img src="https://avatars.githubusercontent.com/u/18335360" width="180" style="float: left; margin-right: 1em;"></a>
 <h3 id="OCH">OCH</h3><i>Formador</i><br><br>Marie Skłodowska-Curie PostDoc Fellow - Centro de Estudos Interdisciplinares (CEIS20)<br><br>
 
-OCH is a performer-composer-technologist working on music and quantum computing, telematics, multimedia, and improvisation. He is passionate about cinema, teaching, and performing new works. He earned his PhD at UC Irvine, with research project Adventures in Quantumland (quantumland.art), and his MA in Music Theory and Composition at ESMAE with research on the relations between music and painting. In recent years, his work has been recognized by MSCA, Fulbright, FCT, Medici, Beall Center for Art+Technology, and IBM. [omarcostahamido.com](https://omarcostahamido.com)
+OCH is a performer-composer-technologist working on music and quantum computing, telematics, multimedia, and improvisation. He is passionate about cinema, teaching, and performing new works. He earned his PhD at UC Irvine, with research project Adventures in Quantumland (quantumland.art), and his MA in Music Theory and Composition at ESMAE with research on the relations between music and painting. In recent years, his work has been recognized by MSCA, Fulbright, FCT, Medici, Beall Center for Art+Technology, and IBM. omarcostahamido.com
 </div>
 
 <div style="overflow: auto;margin-bottom: 16px;">

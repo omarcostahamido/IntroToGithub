@@ -60,3 +60,11 @@ Carolina Travassos received the MSc. Degree in Biomedical Engineering from the F
 
 ## Acknowledgements
 This repo was built by [OCH](https://omarcostahamido.com), while working at [CEIS20](https://www.uc.pt/ceis20) on the [IIMPAQCT](https://cordis.europa.eu/project/id/101109258) project.
+
+<script defer type="text/javascript">
+var links = document.querySelectorAll("a");
+
+			links.forEach(link => {
+			    link.setAttribute('target', '_blank');
+			})
+        </script>

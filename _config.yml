@@ -3,18 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: ["Introdução ao Github, gestão de projeto, e trabalho colaborativo"]
-description: ["Universidade de Coimbra - Formações iiiUC: Ferramentas de Apoio à Investigação\n
-\n
-Quinta-feira 29 de Fevereiro, 2024\n
-\n
-2:30 PM - 4:00 PM\n
-\n
-Formador: [OCH](#OCH)\n
-\n
-Convidados: [Bruno Direito](#Bruno), [Carolina Travassos](#Carolina)\n
-\n
-Organização: [Ana Santos Carvalho](#Ana)\n
-\n
-**[[INSCREVA-SE AQUI](https://www.uc.pt/iii/ensino/formacoes-iiiuc/)]**\n
-\n
-_Nota: inscrição permitida a qualquer membro da comunidade UC._"]
+description: ["2024/02/29 2:30pm GMT"]

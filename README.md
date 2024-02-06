@@ -54,7 +54,7 @@ Carolina Travassos received the MSc. Degree in Biomedical Engineering from the F
 
 <div style="overflow: auto;margin-bottom: 16px;">
 <a href="https://github.com/anasantoscarvalho"><img src="https://avatars.githubusercontent.com/u/158162952" width="180" style="float: left; margin-right: 1em;"></a>
-<h3 id="Ana">Ana Santos Carvalho</h3><br><i>Organização</i><br>
+<h3 id="Ana">Ana Santos Carvalho</h3><i>Organização</i><br><br>
 </div>
 
 

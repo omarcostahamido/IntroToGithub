@@ -51,7 +51,6 @@ Carolina Travassos received the MSc. Degree in Biomedical Engineering from the F
 <a href="https://github.com/brunodireito"><img src="https://avatars.githubusercontent.com/u/3036523" width="130" style="float: left; margin-right: 1em;"></a>
 <h3 id="Bruno">Bruno Direito</h3><i>Convidado</i><br><br>Assistant Researcher with the Center for Informatics and Systems at the University of Coimbra (CISUC)<br><br>
 
-
 Bruno Direito is an assistant researcher at the Center for Informatics and Systems at the University of Coimbra (CISUC). His work revolves around data science and neuroimaging, with a particular emphasis on pioneering therapeutic strategies. He completed his PhD at the University of Coimbra, delving into the prediction of epileptic seizures. He is an advocate for open science, open data, and open-source in academia to foster responsible research and innovation. His research interests span machine learning, neurorehabilitation, emotions, reward mechanisms, and neural network control.
 </div>
 

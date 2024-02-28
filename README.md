@@ -56,7 +56,7 @@ Bruno Direito is an assistant researcher at the Center for Informatics and Syste
 
 <div style="overflow: auto;margin-bottom: 16px;">
 <a href="https://github.com/anasantoscarvalho"><img src="https://avatars.githubusercontent.com/u/158162952" width="130" style="float: left; margin-right: 1em;"></a>
-<h3 id="Ana">Ana Santos Carvalho</h3><i>Organização</i><br><br>
+<h3 id="Ana">Ana Santos Carvalho</h3><i>Organização</i><br><br>Coordenação de Comunicação de Ciência - Instituto de Investigação Interdisciplinar<br><br>
 </div>
 
 

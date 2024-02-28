@@ -29,8 +29,9 @@ _Nota: inscrição permitida a qualquer membro da comunidade UC._
 - forks
 
 ## Requisitos
-
-## Destinatários
+- [browser](https://docs.github.com/en/get-started/using-github/supported-browsers) moderno e atualizado
+- cliente [zoom](https://zoom.us/pt/download) atualizado
+- aplicação [GitHub Desktop](https://desktop.github.com/)
 
 ## Intervenientes
 <div style="overflow: auto;margin-bottom: 16px;">

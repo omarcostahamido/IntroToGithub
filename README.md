@@ -14,6 +14,8 @@ Organização: [Ana Santos Carvalho](#Ana)
 
 _Nota: inscrição permitida a qualquer membro da comunidade UC._
 
+**GRAVAÇÃO:** Esta formação foi gravada e está agora disponível para visualização no youtube, [aqui](https://www.youtube.com/playlist?list=PLc8phwUDydrhcX4IQodzHsGgxxV6qYM7T). A primeira parte contém um workshop _hands on_ que começa do zero, com a criação de uma conta no github, e que pode ser visto também numa janela _popup_ veritcal <a href="https://www.youtube.com/embed/z03LAaOlec8" target="popup" onclick="window.open(this.href,'Intro 2 GitHub by OCH [PT] (2024)','width=699,height=810')">aqui</a>, para quem quiser acompanhar reproduzindo os mesmos passos em simulatâneo. A segunda parte contém apresentações dos 3 intervenientes, sobre tópicos mais avançados, e inclui também algumas perguntas e respostas.
+
 ## Sobre
 [GitHub](https://github.com/) é uma das principais plataformas de alojamento de código em acesso aberto online. Graças ao controlo de versão de ficheiros e às ferramentas de gestão de repositório, a gestão de projectos torna-se transparente. Neste workshop são introduzidas as ferramentas e o workflow básicos no Github, que permitem a programadores e não-programadores colaborar online e em acesso aberto. Este é um workshop prático, e a partir do zero, orientado por OCH, contando ainda com participação de Carolina Travassos e Bruno Direito sobre colaboração e gestão de projectos usando GitHub.
 
@@ -27,11 +29,20 @@ _Nota: inscrição permitida a qualquer membro da comunidade UC._
 - branches
 - pull requests
 - forks
+- repositórios privados
+- procura de código
+- github organization
+- teams
+- discussions
+- github pages
+- git-annex
+- datalad
 
 ## Requisitos
 - [browser](https://docs.github.com/en/get-started/using-github/supported-browsers) moderno e atualizado
 - cliente [zoom](https://zoom.us/pt/download) atualizado
 - aplicação [GitHub Desktop](https://desktop.github.com/)
+- editor recomendado: [VS Code](https://code.visualstudio.com)
 
 ## Intervenientes
 <div style="overflow: auto;margin-bottom: 16px;">
